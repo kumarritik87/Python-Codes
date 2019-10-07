@@ -1,3 +1,5 @@
+""" @ Author:- Ritik Kumar"""
+
 import random
 repeat = True
 while repeat:
